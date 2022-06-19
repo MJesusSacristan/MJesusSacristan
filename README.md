@@ -1,4 +1,4 @@
-### <div align="center">I'm Maria Jesus, a BI and Data Specialist 👩‍💻 learning new technologies related with Data 💻📊📈</div>  
+### <div align="left">I'm Maria Jesus, a BI and Data Specialist 👩‍💻 learning new technologies related with Data 💻📊📈</div>  
 
 
 <div align="center">
@@ -6,13 +6,13 @@
 </div>  
   
 
-- 💞️ I love data and all the posibilities that it offers.  
+💞️ I love data and all the posibilities that it offers.  
   
 
-- 🌱 I have just finished a Bootcamp about programming and data analysis with Python. At the beginning, I thought that it would be only another language, but it has turned into an amazing discovery for me.  
+🌱 I have just finished a Bootcamp about programming and data analysis with Python. At the beginning, I thought that it would be only another language, but it has turned into an amazing discovery for me.  
   
 
-- ⚡ The part I love the most is the beginning phase of working with data (extracting, cleaning and transforming it).  
+⚡ The part I love the most is the beginning phase of working with data (extracting, cleaning and transforming it).  
   
 
 <br/>  
