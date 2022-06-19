@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @MJesusSacristan
+👋 Hi, I’m @MJesusSacristan
+
+
+<img src="https://github.com/MJesusSacristan/MJesusSacristan/blob/main/image.png" alt="banner that says Maria Jesus Sacristan - data analyst, data engineer">
+
+
 - 💞️ I love data and all the posibilities that it offers.
-- 🌱 I’m currently learning Python programming. At the beginning, I thought that it would be only another language, but it has turned into an amazing discovery for me.
+- 🌱 I have just finished a Bootcamp about programming and data analysis with Python. At the beginning, I thought that it would be only another language, but it has turned into an amazing discovery for me.
 
 
 <!---
